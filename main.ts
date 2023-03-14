@@ -21,6 +21,3 @@ input.onButtonPressed(Button.B, function () {
 let running = false
 images.iconImage(IconNames.Heart).scrollImage(1, 200)
 init()
-basic.forever(function () {
-	
-})
